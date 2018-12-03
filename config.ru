@@ -1,2 +1,2 @@
-require 'caesar_sinatra.rb'
+require './caesar_sinatra.rb'
 run Sinatra::Application
